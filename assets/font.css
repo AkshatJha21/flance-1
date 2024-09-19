@@ -1,0 +1,76 @@
+  @font-face {
+     font-family: 'Avenir';
+     src: url('../app/fonts/avenir-font/AvenirLTStd-Black.otf') format('opentype'),
+          url('../app/fonts/avenir-font/AvenirLTStd-BlackOblique.otf') format('opentype'),
+          url('../app/fonts/avenir-font/AvenirLTStd-Book.otf') format('opentype'),
+          url('../app/fonts/avenir-font/AvenirLTStd-BookOblique.otf') format('opentype'),
+          url('../app/fonts/avenir-font/AvenirLTStd-Heavy.otf') format('opentype'),
+          url('../app/fonts/avenir-font/AvenirLTStd-HeavyOblique.otf') format('opentype'),
+          url('../app/fonts/avenir-font/AvenirLTStd-Light.otf') format('opentype'),
+          url('../app/fonts/avenir-font/AvenirLTStd-LightOblique.otf') format('opentype'),
+          url('../app/fonts/avenir-font/AvenirLTStd-Medium.otf') format('opentype'),
+          url('../app/fonts/avenir-font/AvenirLTStd-MediumOblique.otf') format('opentype'),
+          url('../app/fonts/avenir-font/AvenirLTStd-Oblique.otf') format('opentype'),
+          url('../app/fonts/avenir-font/AvenirLTStd-Roman.otf') format('opentype');
+  }
+
+.cormorant-garamond-light {
+     font-family: "Cormorant Garamond", serif;
+     font-weight: 300;
+     font-style: normal;
+   }
+   
+   .cormorant-garamond-regular {
+     font-family: "Cormorant Garamond", serif;
+     font-weight: 400;
+     font-style: normal;
+   }
+   
+   .cormorant-garamond-medium {
+     font-family: "Cormorant Garamond", serif;
+     font-weight: 500;
+     font-style: normal;
+   }
+   
+   .cormorant-garamond-semibold {
+     font-family: "Cormorant Garamond", serif;
+     font-weight: 600;
+     font-style: normal;
+   }
+   
+   .cormorant-garamond-bold {
+     font-family: "Cormorant Garamond", serif;
+     font-weight: 700;
+     font-style: normal;
+   }
+   
+   .cormorant-garamond-light-italic {
+     font-family: "Cormorant Garamond", serif;
+     font-weight: 300;
+     font-style: italic;
+   }
+   
+   .cormorant-garamond-regular-italic {
+     font-family: "Cormorant Garamond", serif;
+     font-weight: 400;
+     font-style: italic;
+   }
+   
+   .cormorant-garamond-medium-italic {
+     font-family: "Cormorant Garamond", serif;
+     font-weight: 500;
+     font-style: italic;
+   }
+   
+   .cormorant-garamond-semibold-italic {
+     font-family: "Cormorant Garamond", serif;
+     font-weight: 600;
+     font-style: italic;
+   }
+   
+   .cormorant-garamond-bold-italic {
+     font-family: "Cormorant Garamond", serif;
+     font-weight: 700;
+     font-style: italic;
+   }
+   

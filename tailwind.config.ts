@@ -12,6 +12,10 @@ const config: Config = {
         background: "var(--background)",
         foreground: "var(--foreground)",
       },
+      fontFamily: {
+        avenir: ['Avenir', 'sans-serif'],
+        cormorant: ["Cormorant Garamond", 'serif'],
+      }
     },
   },
   plugins: [],
